@@ -22,52 +22,32 @@
 
 <h4>Front</h4>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,react,tailwind,bootstrap"/>
 </p>
 
 <h4>Back</h4>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs" width="60" height="60"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mongoose" width="60" height="60"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=php,mysql,nodejs,expressjs,mongoose"/>
 </p>
 
 <h4>Scripting</h4>
 <p>
-<img src="https://img.icons8.com/color/512/bash.png" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
-<img src="https://media.licdn.com/dms/image/v2/C4D12AQHZrQxv90Q7xA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1602342055536?e=2147483647&v=beta&t=QCtQa_5GkrVGp2yC4p_roi7e2rQCmdSaVkMz4OD_n9w" width="60" height="60"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,python,powershell"/>
 </p>
 
 <h4>Authentication</h4>
 <p>
-<img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" width="60" height="60"/>
-<img src="https://encore.dev/assets/templates/auth0.png" width="100" height="100"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,auth0"/>
 </p>
 
 <h4>Virtualization</h4>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="100" height="100"/>
-<img src="https://grafikart.fr/uploads/icons/virtualbox.png" width="80" height="80"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,virtualbox"/>
 </p>
 
-<h4>Proxy & WAF / IPS</h4>
+<h4>OS</h4>
 <p>
-<a href="https://doc.traefik.io/traefik/"><img src="https://docs.traefik.io/assets/img/traefik.logo.png" width="120" height="120"/></a>
-<img src="https://www.hexatrust.com/wp-content/uploads/2023/03/CROWDSEC_Logo_Site.png" width="130" height="130"/>
-</p>
-
-<br><br>
-
-<h2>🧠 Operating Systems</h2>
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux"/>
 </p>
 
 <br><br>
