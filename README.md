@@ -35,61 +35,41 @@
   
   <br>
   <p>
-    <h4>Front</h4>
-    <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" />
-      &nbsp;&nbsp;&nbsp;
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
-      &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>  
-    </p>
-    <br>
-    <h4>Back</h4>
-    <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> 
-      &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60"/>
-      &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
-      &nbsp;&nbsp;&nbsp;
-      <a href="https://go-skill-icons.vercel.app/">
-        <img
-          src="https://go-skill-icons.vercel.app/api/icons?i=expressjs"
-        />
-      </a>    
-      &nbsp;&nbsp;&nbsp;
-      <a href="https://go-skill-icons.vercel.app/">
-        <img
-          src="https://go-skill-icons.vercel.app/api/icons?i=mongoose"
-        />
-      </a>   
-    </p>
-    <br>
-    <h4>Scripting</h4>
-    <p>  
-      <img src="https://img.icons8.com/color/512/bash.png" width="60" height="60"/>
-      &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
-      &nbsp;&nbsp;&nbsp;
-      <img src="https://media.licdn.com/dms/image/v2/C4D12AQHZrQxv90Q7xA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1602342055536?e=2147483647&v=beta&t=QCtQa_5GkrVGp2yC4p_roi7e2rQCmdSaVkMz4OD_n9w" width="60" height="60"/>
-    </p>
-    <br>
-    <h4>Authentication</h4>
-    <p>
-      <img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" width="60" height="60">
-      &nbsp;&nbsp;&nbsp;
-      <img src="https://encore.dev/assets/templates/auth0.png" width="100" height="100">
-      &nbsp;&nbsp;&nbsp;
-    </p>
-    <br>
-    <h4>Virtualization</h4>
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="100" height="100"/>      
-      &nbsp;&nbsp;&nbsp;
-      <img src="https://grafikart.fr/uploads/icons/virtualbox.png" width="80" height="80"/>      
-    </p>
-    <br>
+   <h4>Front</h4>
+<table><tr>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60"/></td>
+  <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/></td>
+</tr></table>
+
+<h4>Back</h4>
+<table><tr>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" height="60"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/></td>
+  <td><a href="https://go-skill-icons.vercel.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs"/></a></td>
+  <td><a href="https://go-skill-icons.vercel.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongoose"/></a></td>
+</tr></table>
+
+<h4>Scripting</h4>
+<table><tr>
+  <td><img src="https://img.icons8.com/color/512/bash.png" width="60" height="60"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/></td>
+  <td><img src="https://media.licdn.com/dms/image/v2/C4D12AQHZrQxv90Q7xA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1602342055536?e=2147483647&v=beta&t=QCtQa_5GkrVGp2yC4p_roi7e2rQCmdSaVkMz4OD_n9w" width="60" height="60"/></td>
+</tr></table>
+
+<h4>Authentication</h4>
+<table><tr>
+  <td><img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" width="60" height="60"/></td>
+  <td><img src="https://encore.dev/assets/templates/auth0.png" width="100" height="100"/></td>
+</tr></table>
+
+<h4>Virtualization</h4>
+<table><tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="100" height="100"/></td>
+  <td><img src="https://grafikart.fr/uploads/icons/virtualbox.png" width="80" height="80"/></td>
+</tr></table>    <br>
     <h4>Proxy</h4>
     <a href="https://doc.traefik.io/traefik/">
       <img src="https://docs.traefik.io/assets/img/traefik.logo.png" width="120" height="120"/> 
