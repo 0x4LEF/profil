@@ -1,7 +1,4 @@
 <div style="background: black;">
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" width="100%" height="160px" />
-  </div>  
   <br><br>
   <p align="center">
     <img 
