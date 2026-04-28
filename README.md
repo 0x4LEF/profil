@@ -55,29 +55,25 @@
 <h2>🧑‍🎓 Jr Penetration Tester Certification</h2>
 <br>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-W7LCJLVKLF.pdf">
-  <img src="https://friconix.com/png/fi-onsuxx-tryhackme.png" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/TryHackMe-Jr%20Penetration%20Tester-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 
 <br><br>
 
 <h2>🔐 Pentest & Security Tools <span>( info. en cliquant sur icones )</span></h2>
 <br>
-<p>
-<a href="https://www.kali.org/tools/hydra/"><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="70" height="70"/></a>
-<a href="https://www.kali.org/tools/burpsuite/"><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="70" height="70"/></a>
-<a href="https://www.kali.org/tools/gobuster/"><img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="70" height="70"/></a>
-<a href="https://www.kali.org/tools/nmap/"><img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="70" height="70"/></a>
-<a href="https://www.kali.org/tools/netcat/"><img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="70" height="70"/></a>
-<a href="https://www.kali.org/tools/metasploit-framework/"><img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="70" height="70"/></a>
-</p>
+<a href="https://www.kali.org/tools/hydra/"><img src="https://img.shields.io/badge/Hydra-informational?style=for-the-badge&logo=kalilinux&logoColor=white&color=2d333b"/></a>
+<a href="https://www.kali.org/tools/burpsuite/"><img src="https://img.shields.io/badge/BurpSuite-informational?style=for-the-badge&logo=burpsuite&logoColor=white&color=FF6633"/></a>
+<a href="https://www.kali.org/tools/gobuster/"><img src="https://img.shields.io/badge/Gobuster-informational?style=for-the-badge&logo=kalilinux&logoColor=white&color=2d333b"/></a>
+<a href="https://www.kali.org/tools/nmap/"><img src="https://img.shields.io/badge/Nmap-informational?style=for-the-badge&logo=kalilinux&logoColor=white&color=2d333b"/></a>
+<a href="https://www.kali.org/tools/netcat/"><img src="https://img.shields.io/badge/Netcat-informational?style=for-the-badge&logo=kalilinux&logoColor=white&color=2d333b"/></a>
+<a href="https://www.kali.org/tools/metasploit-framework/"><img src="https://img.shields.io/badge/Metasploit-informational?style=for-the-badge&logo=metasploit&logoColor=white&color=2d333b"/></a>
 
 <br><br>
 
 <h2>⌨️ Editeurs de code</h2>
 <br>
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,neovim" width="200" height="60"/> + nano (en cas d'urgence lol)
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,neovim"/> + nano (en cas d'urgence lol)
 
 <br><br>
 
