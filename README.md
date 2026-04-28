@@ -42,9 +42,9 @@
 
 <h4>Proxy & WAF / IPS</h4>
 <p align="left">
-  <img src="https://docs.traefik.io/assets/img/traefik.logo.png" height="70"/>
-  <img src="https://caddyserver.com/resources/images/caddy-logo.svg" height="70"/>
-  <img src="https://www.hexatrust.com/wp-content/uploads/2023/03/CROWDSEC_Logo_Site.png" height="70"/>
+  <img src="https://docs.traefik.io/assets/img/traefik.logo.png" height="80"/>
+  <img src="https://caddyserver.com/resources/images/caddy-logo.svg" height="80"/>
+  <img src="https://www.hexatrust.com/wp-content/uploads/2023/03/CROWDSEC_Logo_Site.png" height="80"/>
 </p>
 
 <h4>Virtualization</h4>
