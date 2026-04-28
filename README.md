@@ -42,7 +42,8 @@
 
 <h4>Proxy & WAF / IPS</h4>
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=traefik,crowdsec"/>
+  <img src="https://docs.traefik.io/assets/img/traefik.logo.png" width="100"/>
+  <img src="https://www.hexatrust.com/wp-content/uploads/2023/03/CROWDSEC_Logo_Site.png" width="110"/>
 </p>
 
 <h4>Virtualization</h4>
