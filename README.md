@@ -42,7 +42,7 @@
 
 <h4>Proxy & WAF / IPS</h4>
 <p align="left">
-  <img src="https://docs.traefik.io/assets/img/traefik.logo.png" />
+  <img src="https://docs.traefik.io/assets/img/traefik.logo.png" height="100"/>
   <img src="https://www.hexatrust.com/wp-content/uploads/2023/03/CROWDSEC_Logo_Site.png" height="110"/>
 </p>
 
