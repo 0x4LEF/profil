@@ -34,7 +34,7 @@
   </p>
   
   <br>
-  <p align="left">
+  <p>
     <h4>Front</h4>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
