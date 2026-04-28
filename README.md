@@ -40,6 +40,11 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,auth0"/>
 </p>
 
+<h4>Proxy & WAF / IPS</h4>
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=traefik,crowdsec"/>
+</p>
+
 <h4>Virtualization</h4>
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,virtualbox"/>
